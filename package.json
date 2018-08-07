@@ -2,8 +2,8 @@
   "name": "extpt-lib",
   "version": "0.0.1",
   "description": "这是extpt客户端的支持库，提供相关业务操作。底层访问区块链网络来实现业务功能。",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "main": "dist/src/index.js",
+  "types": "dist/src/index.d.ts",
   "scripts": {
     "build": "tsc",
     "test": "mocha ./dist/**/*.spec.js -R spec"

@@ -1,0 +1,8 @@
+.nyc_output/
+.vscode/
+coverage/
+dist/test/
+node_modules/
+src/
+test/
+tsconfig.json
