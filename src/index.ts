@@ -1,4 +1,4 @@
-
-export default function myAdd(x: number, y: number) : number {
-  return x + y;
-}
+export {BusinessNetwork} from "./BusinessNetwork";
+export {Transaction} from "./Transaction";
+export {TransactionFactory} from "./TransactionFactory";
+export {User} from "./User";

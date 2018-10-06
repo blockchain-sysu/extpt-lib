@@ -19,11 +19,15 @@
   },
   "homepage": "https://github.com/blockchain-sysu/extpt-lib#readme",
   "devDependencies": {
-    "@types/chai": "^4.1.4",
-    "chai": "^4.1.2",
+    "@types/chai": "^4.1.6",
+    "chai": "^4.2.0",
     "mocha": "^5.2.0",
     "mocha-typescript": "^1.1.17",
-    "ts-node": "^7.0.0",
-    "typescript": "^3.0.1"
+    "ts-node": "^7.0.1",
+    "typescript": "^3.1.1"
+  },
+  "dependencies": {
+    "composer-client": "^0.20.1",
+    "composer-common": "^0.20.1"
   }
 }
